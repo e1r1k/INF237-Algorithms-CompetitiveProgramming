@@ -1,0 +1,8 @@
+5
+home 0 0
+work 0 5
+kwik-ee-burger 0 1
+flagpole 0 2
+cleaners 0 3
+cleaners kwik-ee-burger
+flagpole kwik-ee-burger cleaners
